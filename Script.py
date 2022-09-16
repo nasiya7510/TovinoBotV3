@@ -228,6 +228,14 @@ these are the extra features of 𝖳𝗈𝗏𝗂𝗇𝗈
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>
 """
+    CARBON_TXT = """<b>carbon</b>
+
+<b>NOTE:</b>
+these are the extra features of this bot
+
+<b>Commands and Usage:</b>
+• /carbon -ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴛᴇxᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ᴍᴀᴋᴇ ᴄᴀʀʙᴏɴ.</code>
+"""
     ADMIN_TXT = """
 <b>🤖Bot Commands and Usage</b>
 
