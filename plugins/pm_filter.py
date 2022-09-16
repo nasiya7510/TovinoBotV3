@@ -663,6 +663,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             text=script.MUTE_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
+         )    
          elif query.data == "corona":
         buttons = [[
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
